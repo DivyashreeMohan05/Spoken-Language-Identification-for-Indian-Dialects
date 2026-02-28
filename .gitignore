@@ -1,0 +1,28 @@
+# Environment
+.env
+.env.local
+# Logs
+*.log
+logs/
+wandb/
+tensorboard/
+# Python
+__pycache__/
+*.pyc
+.Python
+*.egg-info/
+outputs/
+# Audio & Data files 
+*.wav
+*.mp3
+*.flac
+*.ogg
+data/
+datasets/
+# OS
+.DS_Store
+Thumbs.db
+# Virtual environments
+venv/
+.venv/
+env/
