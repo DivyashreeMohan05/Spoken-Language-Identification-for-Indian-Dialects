@@ -13,7 +13,5 @@ seaborn==0.13.2
 librosa 
 soundfile 
 huggingface-hub==1.4.1
-tqdm==4.67.1
-python-dotenv
 
 
