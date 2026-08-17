@@ -1,0 +1,28 @@
+Baseline Classification report;;;;
+;;;;
+Language;Precision;Recall;F1-score;Support
+Konkani;0.25;0.01;0.03;150
+Hindi;0.38;0.15;0.22;150
+Sanskrit;0.78;0.80;0.79;150
+Santali;0.62;0.62;0.62;150
+Marathi;0.42;0.77;0.55;150
+Sindhi;0.26;0.06;0.10;150
+Kashmiri;0.79;0.79;0.79;150
+Bodo;0.52;0.78;0.63;150
+Tamil;0.86;0.85;0.86;150
+Maithili;0.43;0.13;0.20;150
+Kannada;0.79;0.72;0.76;150
+Telugu;0.81;0.87;0.84;150
+Punjabi;0.35;0.91;0.51;150
+Malayalam;0.82;0.90;0.86;150
+Nepali;0.78;0.76;0.77;150
+Dogri;0.47;0.25;0.32;150
+Manipuri;0.50;0.39;0.44;150
+Assamese;0.83;0.93;0.87;150
+Urdu;0.43;0.74;0.54;150
+Gujarati;0.61;0.83;0.71;150
+Odia;0.31;0.05;0.09;150
+Bengali;0.50;0.67;0.57;150
+Accuracy;;;0.59;3300
+Macro Avg;0.57;0.59;0.55;3300
+Weighted Avg;0.57;0.59;0.55;3300
