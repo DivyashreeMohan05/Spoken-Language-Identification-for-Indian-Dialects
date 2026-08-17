@@ -129,3 +129,9 @@ remove those two calls and set report_to="none" in TrainingArguments.
 ## Stack
 
 PyTorch, Hugging Face Transformers and Datasets, audiomentations, scikit-learn, librosa.
+
+
+Contributors
+Saad Wazir
+Divyashree Mohan
+Aishwarya Krishnadas
